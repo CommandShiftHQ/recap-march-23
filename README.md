@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, start with
+In the project directory, start with npm i
 
 ### `npm i`
 
